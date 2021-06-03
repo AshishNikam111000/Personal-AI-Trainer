@@ -1,2 +1,2 @@
 # PersonalAITrainer
-It counts the dumbbell curls u did using OpenCV and mediapipe.
+It counts the dumbbell curls u did using OpenCV and Mediapipe.
